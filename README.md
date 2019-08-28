@@ -18,4 +18,6 @@ Os componentes do sistema serão: empresas, clientes, aplicativo e servidor.
 Testes
 
 
-Os testes interessantes para esse sistema serão: se o mesmo funciona, se podemos cadastrar um cliente, realizar uma compra, cancelar um pedido, etc. Se múltiplos usuários podem acessar o sistema ao mesmo tempo.
+Os testes interessantes para esse sistema serão: 
+Teste de funcionalidade: se o mesmo funciona, se podemos cadastrar um cliente, realizar uma compra, cancelar um pedido, etc. 
+Se múltiplos usuários podem acessar o sistema ao mesmo tempo, teste de carga, stress.
