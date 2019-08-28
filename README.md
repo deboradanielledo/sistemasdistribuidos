@@ -9,7 +9,7 @@ A minha ideia para o trabalho de Sistemas Distribuídos é criar uma aplicação
 
 Ferramentas
 
-As ferramentas que utilizarei provavelmente serão HTML, CSS, JavaScript e PHP. Para backend talvez Python. Os dados deverão ser salvos em um banco de dados.
+As ferramentas que utilizarei provavelmente serão JavaScript e PHP. Para backend talvez Python. Os dados deverão ser salvos em um banco de dados.
 
 Componentes
 
